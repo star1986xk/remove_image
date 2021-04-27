@@ -1,0 +1,1 @@
+pyinstaller -i ./ui/title.ico -w 图片去重.py
